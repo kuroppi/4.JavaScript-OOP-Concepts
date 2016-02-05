@@ -44,4 +44,7 @@ An object to hold information on your favorite recipe is created. It has propert
 
 The Reading List
 
-This will keep track of which books you read and which books you want to read! An array of objects is created, where each object describes a book and has properties for the title (a string), author (a string), and alreadyRead (a boolean indicating if you read it yet). The array of books will be iterated through. For each book, the book title and book author will be logged such as: "The Hobbit by J.R.R. Tolkien". Then, a conditional is used to change the output depending on whether you read it yet or not. If you read it, 'You already read "The Hobbit" by J.R.R. Tolkien' will be displayed, and if not, 'You still need to read "The Lord of the Rings" by J.R.R. Tolkien.' will be dispalyed in the log.
+This will keep track of which books you read and which books you want to read.
+- An array of objects is created, where each object describes a book and has properties for the title (a string), author (a string), and alreadyRead (a boolean indicating if you read it yet).
+- The array of books will be iterated through. For each book, the book title and book author will be logged such as: "The Hobbit by J.R.R. Tolkien".
+- Then, a conditional is used to change the output depending on whether you read it yet or not. If you read it, 'You already read "The Hobbit" by J.R.R. Tolkien' will be displayed, and if not, 'You still need to read "The Lord of the Rings" by J.R.R. Tolkien.' will be dispalyed in the log.
